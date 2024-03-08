@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-Main project in Jonas Schmedtmann'sUltimate React Course.
+Main project in Jonas Schmedtmann'sUltimate React Course. Built with React Query and Supabase.
 
 Currently, two official plugins are available:
 
